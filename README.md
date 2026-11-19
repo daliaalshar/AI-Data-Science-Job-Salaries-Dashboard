@@ -1,4 +1,4 @@
-# AI-Data-Science-Job-Salaries-Dashboard
+
 # AI & Data Science Job Salaries Dashboard 2026
 
 ## Project Overview
